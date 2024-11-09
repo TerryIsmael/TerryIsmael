@@ -1,13 +1,13 @@
-<h1 align="center"><b> Bienvenido, soy Ismael Barrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Welcome, I'm Ismael Barrera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif" width ="35"><b> Sobre mí </b>
+## <img src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif" width ="35"><b> About me </b>
 <!--### <img src="https://github.com/TerryIsmael/TerryIsmael/blob/main/static/studies.gif?raw=true" width="25"> Estudios -->
 
-- 🎓 Graduado en Ingeniería de Software en la Universidad de Sevilla
+- 🎓  Graduated in Software Engineering at the University of Seville
 
-- 📝 Soy un desarrollador full-stack
+- 📝 Full-stack developer
 
-## <img src="https://github.com/TerryIsmael/TerryIsmael/blob/main/static/diagram.gif?raw=true" width ="35"><b> Let's Connect..!</b>
+## <img src="https://media2.giphy.com/media/rS5XHk9txSS6KbUQi8/giphy.gif?cid=6c09b952r0lore93rxqscobtlir9zgewp5hm09a63j3khx3w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width ="35"><b> Let's Connect..!</b>
 <div align='left'>
   <a href="https://www.linkedin.com/in/ismael-barrera-garcía-778357298/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin: Ismael Barrera-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
@@ -68,8 +68,7 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
-### 📊 Mis estadísticas :
+## <img src="https://github.com/TerryIsmael/TerryIsmael/blob/main/static/diagram.gif?raw=true" width ="35"><b> My stats </b>
 [![Estadísticas de GitHub de Ismael](https://github-readme-stats-xi-bay.vercel.app/api?username=TerryIsmael&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-three-delta.vercel.app/?user=TerryIsmael&theme=radical&hide_current_streak=true)](https://git.io/streak-stats)
