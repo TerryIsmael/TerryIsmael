@@ -10,15 +10,11 @@
 ## <img src="https://media2.giphy.com/media/rS5XHk9txSS6KbUQi8/giphy.gif?cid=6c09b952r0lore93rxqscobtlir9zgewp5hm09a63j3khx3w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width ="35"><b> Let's Connect..!</b>
 <div align='left'>
   <a href="https://www.linkedin.com/in/ismael-barrera-garcía-778357298/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin: Ismael Barrera-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/linkedin: Ismael Barrera-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
-  <br>
   <a href="mailto:terryismael2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail:  Ismael Barrera-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/gmail:  Ismael Barrera-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail  />
   </a>
-
-	
-</ul>
 </div>
 
 
