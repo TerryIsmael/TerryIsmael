@@ -45,8 +45,6 @@
 
 - **Back-End Development**:
 
-   ![Bun](https://img.shields.io/badge/Bun%20-%238C3F3F.svg?style=for-the-badge&logo=bun&logoColor=white)
-   ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express.js](https://img.shields.io/badge/Express.js%20-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
    ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -62,7 +60,9 @@
 
 - **Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![Bun](https://img.shields.io/badge/Bun%20-%238C3F3F.svg?style=for-the-badge&logo=bun&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## <img src="https://github.com/TerryIsmael/TerryIsmael/blob/main/static/diagram.gif?raw=true" width ="35"><b> My stats </b>
 [![Estadísticas de GitHub de Ismael](https://github-readme-stats-xi-bay.vercel.app/api?username=TerryIsmael&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
